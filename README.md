@@ -51,4 +51,4 @@ Currently supported image formats:
 
 ## Licence
 
-[MIT](https://github.com/ttulka/as-inliner-image/blob/main/LICENSE)
+[MIT](https://github.com/ramonaoldf/as-inliner-image/blob/main/LICENSE)
